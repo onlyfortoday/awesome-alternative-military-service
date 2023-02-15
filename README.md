@@ -90,6 +90,7 @@
 산업기능요원 현역 재배정 기준에서 10점~30점 (총점 60점) 가점을 받는다.
 
 * 모젯 (정오의데이트)
+* 당근마켓
 * 어썸피스 (좀비고등학교)
 * 하이퍼커넥트 (아자르)
 * 데브시스터즈 (쿠키런)
@@ -127,6 +128,20 @@
 * 자유롭게 PR을 주시면 감사하겠습니다.
 
 ### 채용 공고 포맷
+
+* [채용시까지] 당근마켓 채용
+  * 분야 : 개발 전 분야
+    * Frontend
+    * Infra
+    * iOS / Android
+    * Machine Learning
+    * Data
+    * Server
+  * 보충역 : 신규 편입, 전직 모두 가능
+  * 현역 : 전직 가능, 신규 편입 불가
+  * [채용 공고](https://team.daangn.com/jobs/)
+  * [블로그](https://medium.com/daangn)
+  * [채용 유튜브](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg)
 
 * [채용시까지] 데브시스터즈 채용
   * 분야 :
@@ -200,20 +215,6 @@
   * 보충역: 편입 가능 / 전직 가능
   * 현역: 현역 불가능 / 전직 가능
   * [채용공고](https://swingmobility.notion.site/)
-
-* [채용시까지] 당근마켓 채용
-  * 분야 : 개발 전 분야
-    * Frontend
-    * Infra
-    * iOS / Android
-    * Machine Learning
-    * Search
-    * Server
-  * 보충역 : 신규 편입, 전직 모두 가능
-  * 현역 : 전직 가능, 신규 편입 불가
-  * [채용 공고](https://team.daangn.com/jobs/)
-  * [블로그](https://medium.com/daangn)
-  * [채용 유튜브](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg)
 
 * [채용시까지] 강남언니 채용
   * 분야 :
